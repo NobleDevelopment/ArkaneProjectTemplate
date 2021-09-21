@@ -1,0 +1,9 @@
+main: org.nobledev.template.Plugin
+name: ArkanePlugin
+version: '1.0'
+description: A template plugin
+load: POSTWORLD
+author: Nobledev.org
+website: Nobledev.org
+prefix: Testing
+api-version: 1.17
